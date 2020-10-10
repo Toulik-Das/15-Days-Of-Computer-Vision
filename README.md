@@ -1,1 +1,1 @@
-# 30-Days-Of-Computer-Vision
+# 15-Days-Of-Computer-Vision
